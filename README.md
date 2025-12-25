@@ -6,7 +6,7 @@ Professional privacy policy page for Google Play Store compliance.
 
 After setup, your privacy policy will be available at:
 ```
-https://emirtunali.github.io/stock-market-privacy-policy/
+https://emrtunali.github.io/stock-market-privacy-policy/
 ```
 
 ## 📁 Files
